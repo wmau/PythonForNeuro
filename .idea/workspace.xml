@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0d4eb4d3-d5de-442b-9a42-fc82e23ed635" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L1_Intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IPython Notebooks/L1_Intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IPython Notebooks/L1_Intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IPython Notebooks/L1_Intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture1_Intro.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture1_Intro.pptx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/IPython Notebooks/L1_Intro.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="14" />
+              <selected id="12" />
             </state>
           </provider>
         </entry>
@@ -50,10 +51,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="895" />
+    <option name="x" value="1912" />
     <option name="y" value="-598" />
-    <option name="width" value="3098" />
-    <option name="height" value="572" />
+    <option name="width" value="1216" />
+    <option name="height" value="1936" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -61,7 +62,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -69,10 +69,16 @@
               <item name="PythonForNeuro" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonForNeuro" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PythonForNeuro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonForNeuro" type="462c0819:PsiDirectoryNode" />
+              <item name="IPython Notebooks" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -131,7 +137,7 @@
     <frame x="1912" y="-598" width="1216" height="1936" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34295416" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3098472" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -144,7 +150,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32982263" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32982263" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.16851442" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -154,7 +160,7 @@
     <entry file="file://$PROJECT_DIR$/IPython Notebooks/L1_Intro.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="14" />
+          <selected id="12" />
         </state>
       </provider>
     </entry>
