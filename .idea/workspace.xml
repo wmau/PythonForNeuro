@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d4eb4d3-d5de-442b-9a42-fc82e23ed635" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IPython Notebooks/L1_Intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IPython Notebooks/L1_Intro.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture1_Intro.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture1_Intro.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IPython Notebooks/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IPython Notebooks/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IPython Notebooks/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IPython Notebooks/Untitled.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
