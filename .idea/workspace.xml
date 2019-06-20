@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d4eb4d3-d5de-442b-9a42-fc82e23ed635" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/IPython Notebooks/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IPython Notebooks/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IPython Notebooks/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IPython Notebooks/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IPython Notebooks/L1_Intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IPython Notebooks/L1_Intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IPython Notebooks/L2_Strings, arrays and lists, control flow.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IPython Notebooks/L2_Strings, arrays and lists, control flow.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1912" />
     <option name="y" value="-598" />
     <option name="width" value="1216" />
@@ -133,8 +134,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-598" width="1216" height="1936" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="-598" width="1216" height="1936" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3098472" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
