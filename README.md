@@ -64,7 +64,7 @@ In a later exercise, we will use an Integrated Development Environment (https://
 
 
 At the end of the installation, it will ask you to create a new project. It should get you to a window that looks something like this: 
-
+![PyCharm env1](Images/PyCharm env1.png)
 
 We will set up PyCharm to communicate with your existing py36 env. Follow these steps: 
 (1) Rename your project to something other than "untitled". Also specify a location that is easy to find. The default is normally fine.
@@ -80,6 +80,7 @@ We will set up PyCharm to communicate with your existing py36 env. Follow these 
 (6) Click `...`
   
 You should come to a window like this, but probably with way fewer drives: 
+![PyCharm env2](Images/PyCharm env2.png)
 
 (7) In your TERMINAL/ANACONDA PROMPT, with your py36 env activated, enter `where python` (Windows) or `which python` (Mac). This will give you your interpreter path.
 
