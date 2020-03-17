@@ -20,19 +20,15 @@ Then follow the prompts to update. It might already be up to date.
 
 Next, you'll want to build a "virtual environment". This is good standard practice to separate code pertaining to different projects. You'll want an environment (env, for short) for every project that you expect to use different code. conda allows us to build these envs pretty easily, and once you build it, you don't need to do this setup again. For these workshops, we will set up an env called "py36" with Python version 3.6 as the base interpreter. In Anaconda Prompt/Terminal type:
 
-`conda create -n py36 python==3.6`
+`conda create -n py36 python=3.6`
 
 Then follow the prompts to set up the env. 
 
 To enter your env, we "activate" it from Prompt/Terminal.
 
-Windows: 
+Windows/Mac: 
 
 `conda activate py36`
-
-Mac: 
-
-`source activate py36`
 
 Now we're in. You should see the word `(base)` to the left of your command line change to `(py36)`. 
 
